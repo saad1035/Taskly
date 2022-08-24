@@ -13,17 +13,31 @@ During my high school years, I found myself struggling to keep up with things. L
 # Features
 The applications consists of many features. A sign-up/log-in feature is incorporated to help increase privacy within users. In addition, a fully navigable calendar and to-do list is created allowing users to add tasks and events to them. One special feature that many of these other applications lack is a list of upcoming events and tasks. This specific lists displays and reminds users of events/tasks that are coming within the next 2 weeks. In addition, a setting feature is incorporated to allow users to change their personal information and profile picture. Finally, a help feature is located that gives the user a step by step on how to use each screen. 
 
+<h3><strong>LogIn Page</strong></h3>
+
 ![LogIn](https://user-images.githubusercontent.com/81185080/178404461-ed8d1059-9b4d-4e65-bef6-0c00f9fbd97c.png)
+
+<h3><strong>SignUp Page</strong></h3>
 
 ![SignUp](https://user-images.githubusercontent.com/81185080/178404478-2a3fac3c-4f0b-4be8-a66b-e72d8f4de7ac.png)
 
+<h3><strong>Calendar Page</strong></h3>
+
 ![Calendar](https://user-images.githubusercontent.com/81185080/178404497-7b53db14-7b21-45cb-9ae6-e379f20b9fcc.png)
+
+<h3><strong>ToDo Page</strong></h3>
 
 ![ToDo](https://user-images.githubusercontent.com/81185080/178404512-e2485f52-be07-4352-9d96-9dfb827c5b4c.png)
 
+<h3><strong>AddEvent Page</strong></h3>
+
 ![AddEvent](https://user-images.githubusercontent.com/81185080/178404524-3ed9bb98-ee59-4d49-9bf6-8f95c0568776.png)
 
+<h3><strong>Settings Page</strong></h3>
+
 ![Settings](https://user-images.githubusercontent.com/81185080/178404530-12400c8d-20ba-4aec-9a9a-e064e13adf1d.png)
+
+<h3><strong>Help Page</strong></h3>
 
 ![Help](https://user-images.githubusercontent.com/81185080/178404542-3b52c7e7-9c64-4d81-9ee6-635446dec390.png)
 
